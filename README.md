@@ -47,4 +47,4 @@ SBSW, HAL, IAG, XOM, BABA, AG, GRAB
 </details>
 
 Stock data last updated:
-**2025-04-30**
+**04/30/2025**
