@@ -2,7 +2,7 @@ import unittest
 from unittest.mock import patch
 from portfolio import Portfolio
 
-class TestPortfolioExtended(unittest.TestCase):
+class TestPortfolio(unittest.TestCase):
 
     @patch('portfolio.gmd.get_stock_price')
     def test_buy_zero_amount(self, mock_get_price):
