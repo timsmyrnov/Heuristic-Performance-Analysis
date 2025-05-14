@@ -1,5 +1,5 @@
 
-# Trading Model Evaluation Framework
+# Random vs Heuristic Trading
 
 This project is aimed at substantiating the hypothesis that random trading often outperforms heuristic strategies. This is done by creating a so-called trading monkey which randomly operates a portfolio under the same conditions as the user. It generates a series of trades and determines if its strategy was more effective than the user's.
 
